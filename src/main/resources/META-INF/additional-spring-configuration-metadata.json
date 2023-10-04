@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.jwtConfig.token-validity",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwtConfig.token-validity'"
+  },
+  {
+    "name": "spring.jwtConfig.refresh-token-validity",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwtConfig.refresh-token-validity'"
+  },
+  {
+    "name": "spring.jwtConfig.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwtConfig.secret-key'"
+  },
+  {
+    "name": "spring.jwtConfig.token-validity",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwtConfig.token-validity'"
+  }
+]}
